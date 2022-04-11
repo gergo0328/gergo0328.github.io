@@ -8,4 +8,10 @@ button{
     left: 50%;
 
     transform: translate(-50%, -50%);
+
+    border: 4px;
+    border-color: #242d38;
+    width: 240px;
+    height: 50px;
+    
 }
