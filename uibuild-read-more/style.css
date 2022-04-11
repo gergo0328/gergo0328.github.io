@@ -3,9 +3,14 @@ body{
 }
 button{
     display: block;
-    position: fixed;
+
     top: 50%;
     left: 50%;
+    text-align: center;
+    justify-content: center;
+
+    padding: 0 0;
+    margin: 0 0;
 
     transform: translate(-50%, -50%);
 
@@ -13,5 +18,9 @@ button{
     border-color: #242d38;
     width: 240px;
     height: 50px;
+
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+
     
 }
