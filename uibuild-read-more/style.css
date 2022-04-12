@@ -15,7 +15,8 @@ button{
     box-sizing: border-box;
     
     border-color: #242d38;
-    border: 4px;
+    border-width: 4px;
+    line-height: ;
     
     text-align: center;
     justify-content: center;
